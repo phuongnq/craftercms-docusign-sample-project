@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/plugins/org/craftercms/plugin/docusign/docusign-form</content-type>
+	<display-template>/templates/plugins/org/craftercms/plugin/docusign/form.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7208</objectGroupId>
+	<objectId>720835eb-a0af-d916-4385-08d00e220fdc</objectId>
+	<file-name>720835eb-a0af-d916-4385-08d00e220fdc.xml</file-name>
+	<folder-name/>
+	<internal-name>docusign01</internal-name>
+	<formId_s>docusign01</formId_s>
+	<title_s>World Wide Corp</title_s>
+	<emailLabel_s>Signer Email Address</emailLabel_s>
+	<nameLabel_s>Signer Full Name</nameLabel_s>
+	<url_s>/plugins/org/craftercms/plugin/docusign/form</url_s>
+	<submitLabel_s>Submit</submitLabel_s>
+	<usePluginTheme_b>true</usePluginTheme_b>
+	<usePluginScript_b>true</usePluginScript_b>
+	<createdDate>2023-02-28T08:24:35.425Z</createdDate>
+	<createdDate_dt>2023-02-28T08:24:35.425Z</createdDate_dt>
+	<lastModifiedDate>2023-02-28T08:24:35.425Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-28T08:24:35.425Z</lastModifiedDate_dt>
+</component>
