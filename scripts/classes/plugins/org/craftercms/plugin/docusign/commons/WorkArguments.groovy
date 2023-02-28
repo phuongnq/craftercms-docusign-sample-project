@@ -1,0 +1,71 @@
+package plugins.org.craftercms.plugin.docusign.commons
+
+import java.util.UUID
+
+public class WorkArguments {
+    String item
+    String quantity
+    String signerEmail
+    String signerName
+    String ccEmail
+    String ccName
+    String clickwrapName
+    String signerEmail2
+    String signerName2
+    String ccEmail2
+    String ccName2
+    String status
+    String startingView
+    String dsReturnUrl
+    String dsPingUrl
+    String signerClientId
+    String signerCheckedEmail
+    String signerCheckedName
+    String signerNotCheckedEmail
+    String signerNotCheckedName
+    String docSelect
+    String accessCode
+    String brandName
+    String language
+    String brandId
+    String templateId
+    String profileId
+    String groupId
+    String permissionProfileName
+    String phoneNumber
+    Integer roleId
+    String roomName
+    Integer roomTemplateId
+    Integer roomId
+    Integer officeId
+    UUID formId
+    String formGroupName
+    UUID formGroupId
+    String startDate
+    String endDate
+    String ccPhoneNumber
+    String countryCode
+    String ccCountryCode
+    String email
+    String userName
+    String firstName
+    String lastName
+    String clmProfileId
+    UUID clmProductId
+    String eSignProfileId
+    UUID eSignProductId
+    String PermissionProfileId
+    UUID ProductId
+    UUID dsGroupId
+    UUID userId
+    String resumeDate
+    String delay
+    String clickwrap
+    String clickwrapId
+    String hostEmail
+    String hostName
+    String fullName
+    String company
+    String title
+    String date
+}
