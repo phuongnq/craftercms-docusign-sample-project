@@ -24,14 +24,14 @@
     <docusign>
         <basePath>https://demo.docusign.net/restapi</basePath>
         <authDomain>account-d.docusign.com</authDomain>
-        <accountId>${enc:CCE-V1#heFjVbXwKWQ1+ENEdkeH18K3NQqnWTgZ8KQ/52Ilc30NINUZtHcl+wus+Yrlv1tvgZGDT4n1GZN2ClKgiBjttw==}</accountId>
-        <userId>${enc:CCE-V1#2FO+0dhgPjEjuwQinmjsqXG0hVNqjJnlbseBuDDkNB8KV56vhiIvkMcyso3VkYlJX14fTp2N58jdvZBPN+tR/g==}</userId>
-        <integrationKey>${enc:CCE-V1#sYOpwgx7bDtReGKjDf7B+J5wKWH8WtNmWMFbC1HoXEVkVC/7JTWtXeBT2WLUGEQaSudr87l5VscgLMwY+AoUlA==}</integrationKey>
+        <accountId>${enc:CCE-V1#heFjVbXwK...}</accountId>
+        <userId>${enc:CCE-V1#2FO+0dhgP...}</userId>
+        <integrationKey>${enc:CCE-V1#sYOpw...}</integrationKey>
         <scopes>signature, impersonation</scopes>
-        <ccEmail>nquangphuong@gmail.com</ccEmail>
-        <ccName>Phil Nguyen</ccName>
+        <ccEmail>CC_EMAIL_ADDRESS</ccEmail>
+        <ccName>CC_NAME</ccName>
         <status>sent</status>
-        <publicKey>${enc:CCE-V1#tMoh1QsNoFNX6Kxll8nTpm+Gnr3GRCb7Zeh/NPVT7/PRlSO435JlpOIizCId6pBgsKM9f2H2Rrs8W7nP8jUyTiQtBxeVobamgsYh+flRsruTtJ6bKecYaZq1txHkoE/qO8t9Rl0t1yR1wOoWJJF9Mr6bEny2rFug4UX840DG2VGoN5nU0NsKsZkKQFUEvUeZSuUOQWEwtHoMV6zDQK8JR+HxGuDWTUJboZTXLdC79ayXNeDKT0YlQMMzFv3b9WB4ihNCQqL8oLIDojzF0nUB9HouC98skGC1mZnas3OD0UEWqZQPhd8iIPCFyY/kh845WLP9ZP5InmwkSVBF9A1mBMYXxIj9v10CVO2hx2d5O0XoyevHCROk9apHQfZz58cLwfbwmSrmSHCJ0VBa9rj+m8Y1WoTWd6q5DjGTxbCYNpKXG6WPH3Rc6zZiPBEdP28ti8flqtyvR6lcTJ/KX0Xk0M7a30AV5u8/TNHaltHoSs07CkTdfuLvDRqM2OAd48BwIxvjcf312CGzyzNEnFPdJL/A2XPpitaxhHMkgpdyqAK86S7Ph79j6LuWONmt4vvqfZC8QZrk3QeDqSPImsa5RdFHX/cvk58vE63QTj2KdXJoOKx/jLLor0LLuXGHhv1F}</publicKey>
-        <privateKey>${enc:CCE-V1#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}</privateKey>
+        <publicKey>${enc:CCE-V1#tMoh1Qs...}</publicKey>
+        <privateKey>${enc:CCE-V1#mkt3jYPh...}</privateKey>
     </docusign>
 </site>
