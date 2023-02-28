@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/plugins/org/craftercms/plugin/docusign/docusign-page</content-type>
+	<display-template>/templates/plugins/org/craftercms/plugin/docusign/docusign-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dc14</objectGroupId>
+	<objectId>dc1444e2-afcb-2e41-8c0c-64ea96a86052</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>sample-docusign</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<title_t>Sample DocuSign Form</title_t>
+	<form_o item-list="true">	<item>	<key>/site/components/720835eb-a0af-d916-4385-08d00e220fdc.xml</key>
+	<value>docusign01</value>
+	<include>/site/components/720835eb-a0af-d916-4385-08d00e220fdc.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></form_o>
+	<internal-name>Sample DocuSign Form</internal-name>
+	<navLabel>Sample DocuSign Form</navLabel>
+	<createdDate>2023-02-28T08:25:11.626Z</createdDate>
+	<createdDate_dt>2023-02-28T08:25:11.626Z</createdDate_dt>
+	<lastModifiedDate>2023-02-28T08:25:11.626Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-02-28T08:25:11.626Z</lastModifiedDate_dt>
+</page>
